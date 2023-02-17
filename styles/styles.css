@@ -46,3 +46,10 @@ nav a {
     bottom:577px;
     border-radius: 8px;
 }
+.images{
+    grid-template-columns: 2,4;
+    width: 342px;
+    height: 342px;
+    left: 301px;
+    top: 1407px;
+}
