@@ -1,0 +1,48 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 50px;
+    flex: 3 auto;
+
+}
+
+
+.container {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    top: 15px;
+    color: #131313;
+
+}
+
+.text-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.btu-primary {
+    width: 180px;
+    height: 64px;
+    left: 870px;
+    bottom: 10px;
+    background: #FF900E;
+    border-radius: 8px;
+}
+
+.banner {
+    width: 1440px;
+    height: 700px;
+    left: 240px;
+    bottom:577px;
+    border-radius: 8px;
+}
