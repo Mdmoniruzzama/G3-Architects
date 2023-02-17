@@ -28,6 +28,7 @@ nav a {
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
+    color: #727272;
 }
 
 .btu-primary {
@@ -43,13 +44,20 @@ nav a {
     width: 1440px;
     height: 700px;
     left: 240px;
-    bottom:577px;
+    bottom: 577px;
     border-radius: 8px;
 }
-.images{
-    grid-template-columns: 2,4;
+
+.images {
+    grid-template-columns: 2, 4;
     width: 342px;
     height: 342px;
     left: 301px;
     top: 1407px;
+}
+
+.flex {
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 53px;
 }
